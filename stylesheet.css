@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+.imgScale {
+    height:300px;
+}
+
 /*CSS declarations like the one below apply to all h1 html tags that haven't been personally modified within a html doc*/
 h1 {
     font-size: 80px;
