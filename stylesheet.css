@@ -1,0 +1,30 @@
+body {
+    background-color:#9DB4C0;
+    color: #253237;
+}
+
+/*
+    Classes like the '.center' class below are used to quickly apply and update html tags with css elements/declarations
+    To apply/reference a css class, put class="exampleClass" within the html tag start e.g. <p class="center">
+*/
+.center {
+    text-align: center;
+}
+
+.imgScale {
+    height:300px;
+}
+
+/*CSS declarations like the one below apply to all h1 html tags that haven't been personally modified within a html doc*/
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 40px;
+}
+
+#randomAnimalSuggest {
+    position: fixed;
+    bottom: 0;
+}
