@@ -23,3 +23,8 @@ h1 {
 p {
     font-size: 40px;
 }
+
+#randomAnimalSuggest {
+    position: fixed;
+    bottom: 0;
+}
